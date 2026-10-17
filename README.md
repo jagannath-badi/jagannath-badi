@@ -38,7 +38,7 @@ Alongside coursework, I prototype with embedded microcontrollers like the ESP32,
 | System / Prototype | Focus Domain | Primary Tech | Reference Links |
 | :--- | :--- | :--- | :--- |
 | **Engineering Atelier & CMS** | SSR Portfolio with Mission Control Admin | Astro, Tailwind, Supabase | [Repository](https://github.com/jagannath-badi/jagannath-badi.github.io) · [Live Deploy](https://jagannath-badi.github.io) |
-| **Circuit & Signal Analysis** | Op-Amp Feedback & Breadboard Analysis | Analog Electronics, DMM | [View Repositories](https://github.com/jagannath-badi?tab=repositories) |
+
 
 ---
 
